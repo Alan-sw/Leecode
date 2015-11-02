@@ -1,0 +1,17 @@
+*** file1.txt	2015-09-24 20:40:04.758988885 -0400
+--- file2.txt	2015-09-24 20:25:31.025047849 -0400
+***************
+*** 1,5 ****
+! this is file one
+  line 2
+  line 3
+! there is no line 4, this is line 5
+  line 6
+--- 1,7 ----
+! this is file two
+  line 2
+  line 3
+! line 4
+! line 5
+  line 6
++ a new line 8
